@@ -122,7 +122,4 @@ Demo para Instituciones Educativas
  Celular: 986687645
  Fono: 044-532555
  
- © 2019
- 
-
-
+# EV-Soft Consultores © 2019
